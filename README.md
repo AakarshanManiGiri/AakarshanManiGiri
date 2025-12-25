@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to My Github Profile,<br>I'm Aaku, A Software Dev/Cyber Sec enthusiast. I'm from Nepal, currently residing in Australia.
+Welcome to My Github Profile,<br>I'm Aaku, A Software Dev/Cyber Sec enthusiast from Nepal, currently residing in Australia.
 
 
 ## 🌐 Socials:
