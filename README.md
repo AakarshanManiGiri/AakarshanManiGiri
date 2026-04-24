@@ -7,7 +7,7 @@
   </a>
 </p>
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/AakarshanManiGiri">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AakarshanManiGiri&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="AakarshanManiGiri's GitHub Stats" />
