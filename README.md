@@ -13,7 +13,11 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AakarshanManiGiri&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="AakarshanManiGiri's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=AakarshanManiGiri&theme=dark&hide_border=true&cache_seconds=86400" alt="AakarshanManiGiri's GitHub Streak" width="49%" />
+  <a href="https://github.com/AakarshanManiGiri">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AakarshanManiGiri&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
+
 
 
 ## 🛠️ Languages & Tools
@@ -36,11 +40,7 @@
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
 
-<p align="center">
-  <a href="https://github.com/AakarshanManiGiri">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AakarshanManiGiri&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+
 
 ## 🔗 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/aakarshanmg/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Aaku's LinkedIn"/></a> <a href="aakarshanmanigiri.github.io/Neo-Project-Website" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
