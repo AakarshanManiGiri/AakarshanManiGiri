@@ -75,4 +75,4 @@
 </picture>
 
 ## 🐟 git-koi
-[git-koi](https://github.com/yalongwastaken/git-koi)
+<img src="koi/koi.gif" width="256" alt="My koi" />
