@@ -18,8 +18,6 @@
   </a>
 </p>
 
-
-
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
@@ -67,8 +65,6 @@
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
 </p>
 
-
-
 ## 🔗 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/aakarshanmg/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Aaku's LinkedIn"/></a> <a href="https://aakarshanmanigiri.github.io/Neo-Project-Website/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
 
@@ -78,4 +74,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-
+## 🐟 git-koi
+[git-koi](https://github.com/yalongwastaken/git-koi)
